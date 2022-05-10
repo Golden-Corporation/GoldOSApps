@@ -1,2 +1,2 @@
-{'ExampleApp': '$PWD/ExampleApp',
+{"ExampleApp": "$PWD/ExampleApp",
 }
