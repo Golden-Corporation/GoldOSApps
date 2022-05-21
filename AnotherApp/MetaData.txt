@@ -1,1 +1,4 @@
-
+{"Name": "AnotherApp",
+"Version": "1.0.0",
+"Description": "Another example app for testing out the store. Hello world!"
+}
